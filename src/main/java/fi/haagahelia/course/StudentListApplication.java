@@ -18,7 +18,7 @@ public class StudentListApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(StudentListApplication.class, args);
 	}
- /* 
+  
 	@Bean
 	public CommandLineRunner studentDemo(StudentRepository repository) {
 		return (args) -> {
@@ -39,5 +39,5 @@ public class StudentListApplication {
 
 		};
 	}
-	*/
+	
 }
