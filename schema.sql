@@ -7,8 +7,8 @@ CREATE TABLE IF NOT EXISTS Student (
 
 INSERT INTO Student (first_name, last_name, email) 
 VALUES 
-    ('AkuP', 'Johnson', 'john@john.com'),
-    ('AnkkaP', 'Kateson', 'kate@kate.com'),
-    ('MustaP', 'Naamio', 'mm@bengali.org');
+    ('AkuP', 'Johnson', 'john@pg.com'),
+    ('AnkkaP', 'Kateson', 'kate@pg.com'),
+    ('MustaP', 'Naamio', 'mm@pg.org');
 
 SELECT * from Student;
